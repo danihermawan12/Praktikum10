@@ -10,36 +10,36 @@
 
 ##  Source Code Latihan 1
 
-  txt = 'Hello world'
-  print("Jumlah karakternya : ", len (txt))
-  print("=======================")
+    txt = 'Hello world'
+    print("Jumlah karakternya : ", len (txt))
+    print("=======================")
 
-  txt = 'Hello world'
-  print(txt[6:12])
-  print("===============")
+    txt = 'Hello world'
+    print(txt[6:12])
+    print("===============")
 
-  txt = 'Hello world'
-  print(txt[2:5])
-  print("===============")
+    txt = 'Hello world'
+    print(txt[2:5])
+    print("===============")
 
-  txt = 'Hello world'
-  x = txt.replace(" ","")
-  print (x)
-  print("===============")
+    txt = 'Hello world'
+    x = txt.replace(" ","")
+    print (x)
+    print("===============")
 
-  txt = 'Hello world'
-  print (txt.upper())
-  print("===============")
+    txt = 'Hello world'
+    print (txt.upper())
+    print("===============")
 
-  txt = 'Hello world'
-  print(txt.lower())
-  print("===============")
+    txt = 'Hello world'
+    print(txt.lower())
+    print("===============")
 
-  txt = 'Hello world'
-  new_txt = 'J' + txt[1:]
-  print(new_txt)
-  print("===============")
-  print()
+    txt = 'Hello world'
+    new_txt = 'J' + txt[1:]
+    print(new_txt)
+    print("===============")
+    print()
 
 ## Source Code Latihan 2
 
